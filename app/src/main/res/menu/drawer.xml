@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Fort Terminology"
+
+    />
+    <item android:title="Geet Durgayan"
+        />
+    <item android:title="Photo Gallery"/>
+<item android:title="About Janaseva Samiti"/>
+
+</menu>

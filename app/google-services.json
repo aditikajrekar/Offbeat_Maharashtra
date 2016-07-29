@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393040316268",
+    "firebase_url": "https://offbeat-maharashtra.firebaseio.com",
+    "project_id": "offbeat-maharashtra",
+    "storage_bucket": "offbeat-maharashtra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393040316268:android:ef6280d3a9cd809e",
+        "android_client_info": {
+          "package_name": "com.example.aditi.offbeat_maharashtra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393040316268-fqqrdumnqiktuc6ddaha8eg0jnkil6fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditi.offbeat_maharashtra",
+            "certificate_hash": "06F9F3C82763D5EA49D69D8B79141C892CFE04E1"
+          }
+        },
+        {
+          "client_id": "393040316268-5iqbj5c4ml85v4jpttnoeqea0v9m73er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fRCkYE-nBR7IPMcqSTetmpqZi9_jryY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393040316268-5iqbj5c4ml85v4jpttnoeqea0v9m73er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
